@@ -3,5 +3,5 @@ document.getElementById("myButton").addEventListener("click", function () {
     var dolar = parseFloat(document.getElementById("dolarcoin").value);
     var result = (real * dolar);
     result = result.toFixed(2);
-    alert("R$ " + result);
+    alert("$ " + result);
 });
