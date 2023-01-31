@@ -1,7 +1,7 @@
 
 ## Imersão Dev da Alura
 
-<p>Projeto conversor de Real para Dolar desenvolvido na Imersão Dev da Alura. Juntamente com Rafaella Ballerini, Paulo Silveira e Guilherme Lima(tutores da imersão).</p>
+<p>Projeto conversor de Dolar para Real desenvolvido na Imersão Dev da Alura. Juntamente com Rafaella Ballerini, Paulo Silveira e Guilherme Lima(tutores da imersão).</p>
 <br>
 <img src="https://github.com/felipepx/conversor-dolar/blob/main/img/website.png?raw=true">
 
